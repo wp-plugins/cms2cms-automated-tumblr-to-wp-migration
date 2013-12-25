@@ -1,15 +1,16 @@
-﻿=== CMS2CMS: Automated Tumblr to WP Migration  ===
+﻿=== CMS2CMS: Automated Tumblr to WordPress Migration  ===
 Contributors: cms2cms
 Tags: tumblr to wordpress, tumblr to wordpress mirgation, convert tumblr to wordpress, migrate tumblr to wordpress
 Requires at least: 3.0.0
 Tested up to: 3.8
-Stable tag: 3.0.7
+Stable tag: 3.1.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin will help you transfer your site content (pages, posts, images, tags)  from Tumblr to WordPress easily and very fast in just a few mouse clicks - no coding skills needed.
 
 == Description ==
+
 This plugin will help you transfer your site content (pages, posts, images, tags)  from Tumblr to WordPress easily and very fast in just a few mouse clicks - no coding skills needed.
 
 = Features =
@@ -28,6 +29,7 @@ Tee more info on converting Tumblr to WordPress here: http://www.cms2cms.com/sup
 
 
 == Installation ==
+
 1. Download the plugin zip file
 1. Extract plugin zip file to your PC
 1. Upload extracted file to wp-content/plugin directory
@@ -36,6 +38,7 @@ Tee more info on converting Tumblr to WordPress here: http://www.cms2cms.com/sup
 
 
 == Frequently Asked Questions ==
+
 
 = Your website is unreachable =
 If your website cannot be reached, pay attention to the following points:
@@ -94,7 +97,9 @@ To fix it, you should either download the bridge again under the account you are
 == Screenshots ==
 
 
+
 == Changelog ==
+
 = 2.0.2 =
 * Bug fixes
 
