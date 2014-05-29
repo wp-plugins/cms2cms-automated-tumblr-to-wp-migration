@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: tumblr to wordpress, tumblr to wordpress mirgation, convert tumblr to wordpress, migrate tumblr to wordpress
 Requires at least: 3.0.0
-Tested up to: 3.8
+Tested up to: 3.9.1
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
