@@ -31,7 +31,7 @@ This plugin will help you transfer your site content (pages, posts, images, tags
 = Video =
 [youtube https://www.youtube.com/watch?v=zxFhSGxsGyE]
 
-Tee more info on converting Tumblr to WordPress here: http://www.cms2cms.com/supported-cms/tumblr-com-to-wordpress-migration
+See more info on converting Tumblr to WordPress here: http://www.cms2cms.com/supported-cms/tumblr-com-to-wordpress-migration
 
 == Installation ==
 
