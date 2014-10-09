@@ -14,7 +14,7 @@ This plugin will help transfer your site content (pages, posts, images, tags) fr
 This plugin will help you transfer your site content (pages, posts, images, tags)  from Tumblr to WordPress easily and very fast in just a few mouse clicks - no coding skills needed.
 
 * *There is Free Demo available (migration of limited number of pages).*
-* *Full Migration starts from $39.*
+* *Full Migration starts from $49.*
 
 = Features =
 * navigation inside the site is live after migration
