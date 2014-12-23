@@ -31,10 +31,10 @@ This plugin will help you transfer your site content (pages, posts, images, tags
 = Video =
 [youtube https://www.youtube.com/watch?v=zxFhSGxsGyE]
 
-Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
-Phone support – 24 hours a day, Monday – Friday
-Live Chat support – 24 hours a day, Monday – Friday
-Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+= Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours: = 
+- Phone support – 24 hours a day, Monday – Friday
+- Live Chat support – 24 hours a day, Monday – Friday
+- Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
 
 See more info on converting Tumblr to WordPress here: http://www.cms2cms.com/supported-cms/tumblr-com-to-wordpress-migration?utm_source=Tumblr&utm_medium=Link&utm_campaign=WordPress_plugins
 
